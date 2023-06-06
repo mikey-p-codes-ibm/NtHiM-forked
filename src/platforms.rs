@@ -82,7 +82,7 @@ where
 }
 
 pub fn _get_signatures_from_repo() -> Result<String, Box<dyn Error>> {
-    let url = "https://git.io/signatures_json";
+    let url = "https://raw.githubusercontent.com/mikey-p-codes-ibm/NtHiM-forked/main/src/signatures.json";
     let resp = reqwest::blocking::get(url)?.text()?;
     Ok(resp)
 }
