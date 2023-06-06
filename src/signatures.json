@@ -1,0 +1,268 @@
+{
+    "platforms": [
+        {
+            "platform": "AWS/Elastic Beanstalk",
+            "content": "NXDOMAIN"
+        },
+        {
+            "platform": "AWS/Load Balancer (ELB)",
+            "content": "NXDOMAIN"
+        },
+        {
+            "platform": "AWS/S3",
+            "content": "The specified bucket does not exist"
+        },
+        {
+            "platform": "Acquia",
+            "content": "Web Site Not Found"
+        },
+        {
+            "platform": "Agile CRM",
+            "content": "Sorry, this page is no longer available."
+        },
+        {
+            "platform": "Airee.ru",
+            "content": "\u041e\u0448\u0438\u0431\u043a\u0430 402. \u0421\u0435\u0440\u0432\u0438\u0441 \u0410\u0439\u0440\u0438.\u0440\u0444 \u043d\u0435 \u043e\u043f\u043b\u0430\u0447\u0435\u043d"
+        },
+        {
+            "platform": "Anima",
+            "content": "The page you were looking for does not exist."
+        },
+        {
+            "platform": "Bitbucket",
+            "content": "Repository not found"
+        },
+        {
+            "platform": "Campaign Monitor",
+            "content": "Trying to access your account?"
+        },
+        {
+            "platform": "Canny",
+            "content": "Company Not Found` `There is no such company. Did you enter the right URL?"
+        },
+        {
+            "platform": "Cargo Collective",
+            "content": "Connect it by adding it to your Settings."
+        },
+        {
+            "platform": "Desk",
+            "content": "Please try again or try Desk.com free for 14 days."
+        },
+        {
+            "platform": "Digital Ocean",
+            "content": "Domain uses DO name servers with no records in DO."
+        },
+        {
+            "platform": "Discourse",
+            "content": "NXDOMAIN"
+        },
+        {
+            "platform": "Dreamhost",
+            "content": "Site Not Found Well, this is awkward. The site you're looking for is not here."
+        },
+        {
+            "platform": "Fastly",
+            "content": "Fastly error: unknown domain:"
+        },
+        {
+            "platform": "Feedpress",
+            "content": "The feed has not been found."
+        },
+        {
+            "platform": "Freshdesk",
+            "content": "We couldn't find servicedesk.victim.tld Maybe this is still fresh! You can claim it now at http://www.freshservice.com/signup"
+        },
+        {
+            "platform": "Frontify",
+            "content": "404 - Page Not Found` `Oops\u2026 looks like you got lost"
+        },
+        {
+            "platform": "Gemfury",
+            "content": "404: This page could not be found."
+        },
+        {
+            "platform": "Getresponse",
+            "content": "With GetResponse Landing Pages, lead generation has never been easier"
+        },
+        {
+            "platform": "Ghost",
+            "content": "Site unavailable\\.&#124;Failed to resolve DNS path for this host"
+        },
+        {
+            "platform": "Github",
+            "content": "There isn't a GitHub Pages site here."
+        },
+        {
+            "platform": "Google Cloud Storage",
+            "content": "<?xml version='1.0' encoding='UTF-8'?><Error><Code>NoSuchBucket</Code><Message>The specified bucket does not exist.</Message></Error>"
+        },
+        {
+            "platform": "Google Sites",
+            "content": "The requested URL was not found on this server. That\u2019s all we know."
+        },
+        {
+            "platform": "HatenaBlog",
+            "content": "404 Blog is not found"
+        },
+        {
+            "platform": "Help Juice",
+            "content": "We could not find what you're looking for."
+        },
+        {
+            "platform": "Help Scout",
+            "content": "No settings were found for this company:"
+        },
+        {
+            "platform": "Helprace",
+            "content": "HTTP_STATUS=301"
+        },
+        {
+            "platform": "Heroku",
+            "content": "No such app"
+        },
+        {
+            "platform": "HubSpot",
+            "content": "This page isn't available"
+        },
+        {
+            "platform": "Intercom",
+            "content": "Uh oh. That page doesn't exist."
+        },
+        {
+            "platform": "JetBrains",
+            "content": "is not a registered InCloud YouTrack"
+        },
+        {
+            "platform": "Kinsta",
+            "content": "No Site For Domain"
+        },
+        {
+            "platform": "Landingi",
+            "content": "It looks like you\u2019re lost..."
+        },
+        {
+            "platform": "LaunchRock",
+            "content": "HTTP_STATUS=500"
+        },
+        {
+            "platform": "Mailchimp",
+            "content": "We can't find that page It looks like you're trying to reach a page that was built by Mailchimp but is no longer active."
+        },
+        {
+            "platform": "Mashery",
+            "content": "Unrecognized domain"
+        },
+        {
+            "platform": "Microsoft Azure",
+            "content": "NXDOMAIN"
+        },
+        {
+            "platform": "Netlify",
+            "content": "Not Found - Request ID:"
+        },
+        {
+            "platform": "Ngrok",
+            "content": "Tunnel .*.ngrok.io not found"
+        },
+        {
+            "platform": "Pantheon",
+            "content": "404 error unknown site!"
+        },
+        {
+            "platform": "Pingdom",
+            "content": "Sorry, couldn't find the status page"
+        },
+        {
+            "platform": "Readme.io",
+            "content": "The creators of this project are still working on making everything perfect!"
+        },
+        {
+            "platform": "Readthedocs",
+            "content": "The link you have followed or the URL that you entered does not exist."
+        },
+        {
+            "platform": "Shopify",
+            "content": "Sorry, this shop is currently unavailable."
+        },
+        {
+            "platform": "Short.io",
+            "content": "Link does not exist"
+        },
+        {
+            "platform": "SmartJobBoard",
+            "content": "This job board website is either expired or its domain name is invalid."
+        },
+        {
+            "platform": "Smartling",
+            "content": "Domain is not configured"
+        },
+        {
+            "platform": "Strikingly",
+            "content": "PAGE NOT FOUND."
+        },
+        {
+            "platform": "Surge.sh",
+            "content": "project not found"
+        },
+        {
+            "platform": "SurveySparrow",
+            "content": "Account not found."
+        },
+        {
+            "platform": "Tilda",
+            "content": "Please renew your subscription"
+        },
+        {
+            "platform": "Tumblr",
+            "content": "Whatever you were looking for doesn't currently exist at this address"
+        },
+        {
+            "platform": "Uberflip",
+            "content": "The URL you've accessed does not provide a hub."
+        },
+        {
+            "platform": "Unbounce",
+            "content": "The requested URL was not found on this server."
+        },
+        {
+            "platform": "Uptimerobot",
+            "content": "page not found"
+        },
+        {
+            "platform": "UserVoice",
+            "content": "This UserVoice subdomain is currently available!"
+        },
+        {
+            "platform": "Vercel",
+            "content": "The deployment could not be found on Vercel."
+        },
+        {
+            "platform": "WP Engine",
+            "content": [
+				"Do you want to register <em>",
+				"<title>Error: Domain mapping upgrade for this domain not found</title>",
+				"It looks like it doesn't have an active <a href='https://wordpress.com/support/domains/connect-existing-domain/'>domain connection</a> upgrade to link the requested domain name to the WordPress.com site."
+			]
+        },
+        {
+            "platform": "Webflow",
+            "content": "The page you are looking for doesn't exist or has been moved."
+        },
+        {
+            "platform": "Wix",
+            "content": "Looks Like This Domain Isn't Connected To A Website Yet!"
+        },
+        {
+            "platform": "Wordpress",
+            "content": "Do you want to register .*.wordpress.com?"
+        },
+        {
+            "platform": "Worksites",
+            "content": "Hello! Sorry, but the website you&rsquo;re looking for doesn&rsquo;t exist."
+        },
+        {
+            "platform": "Zendesk",
+            "content": "Help Center Closed"
+        }
+    ]
+}
