@@ -221,10 +221,6 @@
             "content": "The URL you've accessed does not provide a hub."
         },
         {
-            "platform": "Unbounce",
-            "content": "The requested URL was not found on this server."
-        },
-        {
             "platform": "Uptimerobot",
             "content": "page not found"
         },
