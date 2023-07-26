@@ -13,10 +13,6 @@
             "content": "The specified bucket does not exist"
         },
         {
-            "platform": "Acquia",
-            "content": "Web Site Not Found"
-        },
-        {
             "platform": "Agile CRM",
             "content": "Sorry, this page is no longer available."
         },
@@ -45,32 +41,12 @@
             "content": "Connect it by adding it to your Settings."
         },
         {
-            "platform": "Desk",
-            "content": "Please try again or try Desk.com free for 14 days."
-        },
-        {
             "platform": "Digital Ocean",
             "content": "Domain uses DO name servers with no records in DO."
         },
         {
             "platform": "Discourse",
             "content": "NXDOMAIN"
-        },
-        {
-            "platform": "Dreamhost",
-            "content": "Site Not Found Well, this is awkward. The site you're looking for is not here."
-        },
-        {
-            "platform": "Fastly",
-            "content": "Fastly error: unknown domain:"
-        },
-        {
-            "platform": "Feedpress",
-            "content": "The feed has not been found."
-        },
-        {
-            "platform": "Freshdesk",
-            "content": "We couldn't find servicedesk.victim.tld Maybe this is still fresh! You can claim it now at http://www.freshservice.com/signup"
         },
         {
             "platform": "Frontify",
@@ -93,14 +69,6 @@
             "content": "There isn't a GitHub Pages site here."
         },
         {
-            "platform": "Google Cloud Storage",
-            "content": "<?xml version='1.0' encoding='UTF-8'?><Error><Code>NoSuchBucket</Code><Message>The specified bucket does not exist.</Message></Error>"
-        },
-        {
-            "platform": "Google Sites",
-            "content": "The requested URL was not found on this server. That\u2019s all we know."
-        },
-        {
             "platform": "HatenaBlog",
             "content": "404 Blog is not found"
         },
@@ -121,10 +89,6 @@
             "content": "No such app"
         },
         {
-            "platform": "HubSpot",
-            "content": "This page isn't available"
-        },
-        {
             "platform": "Intercom",
             "content": "Uh oh. That page doesn't exist."
         },
@@ -133,20 +97,12 @@
             "content": "is not a registered InCloud YouTrack"
         },
         {
-            "platform": "Kinsta",
-            "content": "No Site For Domain"
-        },
-        {
             "platform": "Landingi",
             "content": "It looks like you\u2019re lost..."
         },
         {
             "platform": "LaunchRock",
             "content": "HTTP_STATUS=500"
-        },
-        {
-            "platform": "Mailchimp",
-            "content": "We can't find that page It looks like you're trying to reach a page that was built by Mailchimp but is no longer active."
         },
         {
             "platform": "Mashery",
@@ -225,20 +181,8 @@
             "content": "page not found"
         },
         {
-            "platform": "UserVoice",
-            "content": "This UserVoice subdomain is currently available!"
-        },
-        {
             "platform": "Vercel",
             "content": "The deployment could not be found on Vercel."
-        },
-        {
-            "platform": "WP Engine",
-            "content": [
-				"Do you want to register <em>",
-				"<title>Error: Domain mapping upgrade for this domain not found</title>",
-				"It looks like it doesn't have an active <a href='https://wordpress.com/support/domains/connect-existing-domain/'>domain connection</a> upgrade to link the requested domain name to the WordPress.com site."
-			]
         },
         {
             "platform": "Webflow",
@@ -256,9 +200,5 @@
             "platform": "Worksites",
             "content": "Hello! Sorry, but the website you&rsquo;re looking for doesn&rsquo;t exist."
         },
-        {
-            "platform": "Zendesk",
-            "content": "Help Center Closed"
-        }
     ]
 }
