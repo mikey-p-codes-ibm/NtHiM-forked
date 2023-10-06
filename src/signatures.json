@@ -177,10 +177,6 @@
             "content": "The URL you've accessed does not provide a hub."
         },
         {
-            "platform": "Uptimerobot",
-            "content": "page not found"
-        },
-        {
             "platform": "Vercel",
             "content": "The deployment could not be found on Vercel."
         },
