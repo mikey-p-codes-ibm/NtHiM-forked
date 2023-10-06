@@ -1,14 +1,6 @@
 {
     "platforms": [
         {
-            "platform": "AWS/Elastic Beanstalk",
-            "content": "NXDOMAIN"
-        },
-        {
-            "platform": "AWS/Load Balancer (ELB)",
-            "content": "NXDOMAIN"
-        },
-        {
             "platform": "AWS/S3",
             "content": "The specified bucket does not exist"
         },
@@ -109,10 +101,6 @@
             "content": "Unrecognized domain"
         },
         {
-            "platform": "Microsoft Azure",
-            "content": "NXDOMAIN"
-        },
-        {
             "platform": "Netlify",
             "content": "Not Found - Request ID:"
         },
@@ -151,10 +139,6 @@
         {
             "platform": "Smartling",
             "content": "Domain is not configured"
-        },
-        {
-            "platform": "Strikingly",
-            "content": "PAGE NOT FOUND."
         },
         {
             "platform": "Surge.sh",
